@@ -32,4 +32,5 @@ stock-service: It is the service that processes stock updates. When a new order 
 Distributed under the MIT License. See `LICENSE.md` for more information
 
 
-[license-url]: https://github.com/mertbesirli/kafka-app/blob/main/LICENSE
+[license-shield]: https://img.shields.io/badge/license-MIT%20License-green.svg
+[license-url]: [https://github.com/mertbesirli/ticket-app/blob/main/LICENSE](https://github.com/mertbesirli/kafka-app/blob/main/LICENSE)
